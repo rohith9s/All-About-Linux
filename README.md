@@ -38,3 +38,9 @@ cd: change directory.
 	```
 cd -: cd hypen is used to switch between last two paths.
 
+cp poems.txt poems2.txt: copies poems.txt to  poems2.txt file
+
+cp simple_data.txt departments/hr/employee\ info/ : copies 'simple_data.txt' to departments/hr/employee\ info/ folder
+
+
+
