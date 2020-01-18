@@ -55,7 +55,7 @@ mv departments/marketing/* . :  moves all files  from  'departments/marketing/' 
 rm literature.txt : removed literature.txt  file
 
 ls
-'''
+```
 departments  dupes.txt  log.tar.gz  new_folder  poems3.txt  poems4.txt  poems.txt  simple_data.txt  test.sh
-'''
+```
 
