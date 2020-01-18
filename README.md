@@ -59,3 +59,20 @@ ls
 departments  dupes.txt  log.tar.gz  new_folder  poems3.txt  poems4.txt  poems.txt  simple_data.txt  test.sh
 ```
 
+rm poems?.txt : will remove poems3.txt and poems4.txt. here ? represents only one wildcard
+
+ls
+```
+departments  dupes.txt  log.tar.gz  new_folder  poems.txt  simple_data.txt  test.sh
+```
+
+
+rm -r departments/customerservice/ : remove recursively 
+
+find . -name "poe*" : finds files starts with name poe 
+
+find . -name "d*"   : finds files starts with name d 
+
+find . -name "*d*"  : finds files contains with name d
+
+find ~/Documents/ -name: "*d*" : finds in Documents with name contains d
