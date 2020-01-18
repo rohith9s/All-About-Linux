@@ -32,12 +32,7 @@ apropos:  (Unix) In computing, apropos is a command to search the man page files
 
 pwd: present working directory
 
-cd: change directory. 
-
-	```
-	EX : cd ../../finance/spreadsheets/ : move 2 folders back and goes to /finance/spreadsheets/ 
-	```
-
+cd: change directory.  
 	```
 	git status
 	git add
