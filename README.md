@@ -35,5 +35,7 @@ pwd: present working directory
 cd: change directory. 
 
 	```
-	EX : cd ../../finance/spreadsheets/ : move 2 folders back and goes to /finance/spreadsheets/ 
-	```
+git status
+git add
+git commit
+```
