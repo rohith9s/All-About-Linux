@@ -96,3 +96,20 @@ ls -lrth
 - h for human readable
 
 
+**grep :** : General Regular expression Parser
+
+grep -ril 
+ -r for recursive
+ -i for case insensitive
+ -l for list of files
+ 
+ ex: grep -ril "root" /etc/   => this will search for word in side mentioned path
+ 
+ 
+ **Disk Utilization** : 
+ 
+ df -Th
+  - df is disk full
+  - T for file type 
+  - h human readable
+  
