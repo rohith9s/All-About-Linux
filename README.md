@@ -76,3 +76,23 @@ find . -name "d*"   : finds files starts with name d
 find . -name "*d*"  : finds files contains with name d
 
 find ~/Documents/ -name: "*d*" : finds in Documents with name contains d
+
+
+
+> top   
+- to see cpu details
+- Press ‘c‘ option in running top command, it will display absolute path of running process
+- press shift+P to sort by cpu utilization
+- press shift+M to sort by memory utilization
+- press U, to search by user
+
+
+**List files:**
+
+ls -lrth
+- l for listing 
+- r for recursive
+- t for time based, latest entries will be down side
+- h for human readable
+
+
