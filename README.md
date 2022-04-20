@@ -113,3 +113,11 @@ grep -ril
   - T for file type 
   - h human readable
   
+
+
+Add a User:
+
+sudo adduser <username>
+	
+Type your current password and new password when prompted.
+	
