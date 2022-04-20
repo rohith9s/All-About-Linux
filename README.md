@@ -130,5 +130,8 @@ Change user on Linux using su
 
 To change user to root account, run “su” or “su –” without any arguments.
 
+Use below command to hide the path in terminal 
+
+PS1="\W \$"; clear;
 
 	
