@@ -117,7 +117,18 @@ grep -ril
 
 Add a User:
 
-sudo adduser <username>
+	sudo adduser <username>
 	
 Type your current password and new password when prompted.
+	
+Change user on Linux using su
+
+	su <option> <user>
+	
+	 sudo -u <username> <password>
+	 
+
+To change user to root account, run “su” or “su –” without any arguments.
+
+
 	
